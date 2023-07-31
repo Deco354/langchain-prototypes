@@ -38,3 +38,18 @@ Save the file and close it. In your Python script or Jupyter notebook, load the 
 from dotenv import load_dotenv, find_dotenv
 load_dotenv(find_dotenv())
 ```
+
+## Using Flowise chatbot
+Download and Install [NodeJS](https://nodejs.org/en/download) >= 18.15.0
+
+1. Install Flowise
+    ```bash
+    npm install -g flowise
+    ```
+2. Start Flowise
+
+    ```bash
+    npx flowise start
+    ```
+3. Open [http://localhost:3000](http://localhost:3000)
+4. Within Flowise go to Setttings -> Load Chatflow and select "Document Chatbot Chatflow.json"
