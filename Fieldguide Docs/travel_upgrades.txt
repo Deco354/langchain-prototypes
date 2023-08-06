@@ -1,0 +1,76 @@
+Travel Upgrades
+
+UPDATED: 1 MONTH AGO Topics: Travel (14)
+Automatticians travel often! For many, travel is one of the great perks Automattic offers, but getting from point A to point B isn’t always comfortable. To ease the stress and discomfort associated with travel, we offer two ways to take advantage of upgrades, amenities, or other travel assistance.
+
+Both programs are available to all Automatticians, but you can’t combine them – you’re not eligible to expense items under the Automattic Upgrade program if you’re enrolled in Rocketrip and you have a points balance. We offer both because they appeal to different people and require different amounts of involvement on your part.
+
+When you are purchasing an upgrade via the Automattic Upgrade or Rocketrip and there aren’t clear guidelines listed here or elsewhere in the Field Guide, please ask in the #expense-reports Slack Channel or any of the HR Wranglers (preferably before you incur the expense) — they’re happy to help you with a judgment call.
+
+About the Automattic Upgrade
+The Automattic Upgrade applies to long-distance trips (trip itineraries including a flight of six or more hours or a train trip of three or more hours). The upgrade covers up to USD 300 for seat upgrades and/or airport lounge access per long-haul round trip (not each leg). Make sure to expense your upgrade separately under the Travel Upgrade category.
+
+The Automattic Upgrade per trip allowance doesn’t accumulate and can’t be banked.
+
+If you do not travel frequently, and your travel only consists of infrequent long distance trips, this upgrade program is best suited for you.
+
+About Rocketrip
+Rocketrip is a third-party service that allows Automatticians who travel frequently to earn points that can be redeemed toward travel upgrades and amenities, among other things. Rocketrip is designed to help make travel more comfortable and reimburse you for things that make frequent business travel more palatable. You can also earn points through Rocketrip’s other offerings outside of flights (such as hotel, rail, and driving expenses).
+
+There is no flight time requirement to use Rocketrip — and you can use Rocketrip points for expenses related to any business travel.
+
+When planning your travel, visit the Rocketrip site and generate a budget for your proposed itinerary. Rocketrip generates budgets for flights, lodging, and rental cars. Note that you will not actually book anything through Rocketrip, it will just compile the particulars of your trip, and then give you a target budget. Once you book your trip on your own (in Egencia, or otherwise), you then will forward your receipt(s) to Rocketrip and you will earn reward points on the money saved against your target budget(s). If you cannot achieve the budget target assigned by Rocketrip, you do not need to complete the process. If you suspect there is an error in the target budget, you’re free to contact Rocketrip support, or leave a post on the Rocketrip P2. You can accumulate points and redeem them at any time toward anything that makes travel more comfortable or less stressful for you and your family.
+
+If you have extended your travel dates to allow for personal travel time before or after a meetup then you are not able to use Rocketrip. Your actual travel dates have to match the itinerary that would be needed for attendance at the Automattic event.
+
+Rocketrip is a much more flexible travel program, although it requires a little more work to use (generating budgets & hunting for bargains). In addition to there being no flight time requirement, you can redeem points for almost anything related to travel: seat upgrades (including business class seats); airport lounge access or annual membership; noise-cancelling headphones; the annual fee on a credit card that gives you lounge access, higher boarding priority, or other travel perks; and even dependent or pet care costs while you’re away at an Automattic related event.
+
+When you enroll in Rocketrip, Automattic will front load your account with 3,000 points, or the equivalent of USD 300. The points will be pending until you complete your first trip with Rocketrip (generating a budget and completing the travel).
+
+If you’re enrolled in Rocketrip and you have a non-zero balance of points, then you can’t use the Automattic Upgrade. You will need to deplete your Rocketrips points and attain a zero balance before you can use the Upgrade program.
+
+How To
+How to use the Automattic Upgrade
+If your itinerary has at least one flight longer than six hours, you can expense seat upgrades and/or lounge access up to USD 300. For lounge access, submit the expense and receipt via Expensify and submit under the category Travel Upgrade.
+
+If you want to upgrade your seats, you have two options for how to expense that upgrade:
+
+Purchase the economy fare. Buy your upgraded seats after purchasing the flight, in a separate transaction, and then expense the seat upgrade separately under the Travel Upgrade category.
+Buy the upgraded fare initially and then split your expense between the Airfare and Travel Upgrades category. Under this method you must include a screenshot of the regular economy fare for the same flights (the “Benchmark”) with your receipt for the actual purchase. Only $300 more than the benchmark economy flight is eligible to be reimbursed as the Travel Upgrade.
+If you book through Egencia, it is set up to allow a USD 300 increase over in-policy fares as an option to book upgraded flights. e
+
+How to use Rocketrip
+To enroll, please email support@rocketrip.com and request an invitation by providing your name and a8c email address. (We no longer use the rocketripo2.wordpress.com P2 to request access.)
+
+Once you’re ready to start traveling, login to rocketrip.com and select “New Trip” to create a budget for your flight, lodging, and/or rental car spend. Once you have your budget, you have 24 hours to book your travel and submit booking confirmations back to Rocketrip. The easiest way to submit reservation confirmations is to forward them to support@rocketrip.com. If you beat the budget then Rocketrip will award pending points based on the dollar amount saved. Points will be deposited to your account balance after you complete your trip. The more you save, the more you earn!
+
+To redeem your accrued Rocketrip points for travel related expenses, login to Rocketrip and click on “Rewards” in the top menu. Enter the US dollar amount of the item you’re expensing, include a brief description, and confirm your email address. Rocketrip will email you a Voucher ID for the reward redemption. Submit the expense for reimbursement via Expensify, selecting the category Travel Upgrade, and include the Rocketrip Voucher ID in the comments field. Items submitted without a Voucher ID won’t be approved and reimbursed. Please include a receipt of the purchase as usual.
+Do not use your a8c company credit card for Rocketrip reward purchases. Please use your personal funds and request reimbursement for any Rocktrip purchases.
+
+The following lists are not meant to be exhaustive but should help guide you in making decisions how to use your Rocketrip points.
+
+ELIGIBLE ROCKETRIP PURCHASES
+Seat upgrades (including business class seats)
+Early check-in upgrade
+Airport lounge access or annual membership
+The annual fee on a credit card that gives you lounge access, higher boarding priority, or other travel perks
+Dependent (child / elder) or pet care costs while you’re away at an Automattic-related event
+Meal delivery, takeout, or a restaurant meal for your family while you’re away
+Luggage
+iPads / iPods / reMarkable tablet
+E-readers (Nook, Kobo, Kindle)
+Video game systems (Nintendo Switch, 3DS)
+Carrying/travel cases for e-readers / game systems
+Noise-cancelling headphones / earbuds
+Portable battery
+International electrical outlet adapters
+Travel pillow
+Outsite yearly membership
+Carbon offsets
+INELIGIBLE ROCKETRIP PURCHASES
+Smartphones
+Smart watches
+Video games
+Books / e-books
+Screen protectors for e-reader / game system 
+Tickets to shows / events before / during / after travel
