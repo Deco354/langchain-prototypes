@@ -16,8 +16,9 @@ from langchain.prompts.chat import (
 python_environment = find_dotenv()
 load_dotenv(python_environment)
 
-ben_interview_url = "https://www.youtube.com/watch?v=XpC7SVDXimg"
+netanyahu_interview_url = "https://www.youtube.com/watch?v=XpC7SVDXimg"
 embeddings = OpenAIEmbeddings()
+
 # Cost: ~2c
 def create_database_from_youtube_url(video_url):
     loader = YoutubeLoader.from_youtube_url(video_url)
@@ -57,6 +58,6 @@ def get_response_from_query(database, query, vector_count=8):
     
     
     
-database = create_database_from_youtube_url(ben_interview_url)
+database = create_database_from_youtube_url(netanyahu_interview_url)
 response = get_response_from_query(database, "How does Benjamin think peace in the middle east can be achieved?")
 print(response)
