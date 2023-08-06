@@ -16,11 +16,7 @@ from langchain.prompts.chat import (
 python_environment = find_dotenv()
 load_dotenv(python_environment)
 
-altman_interview_url = "https://www.youtube.com/watch?v=L_Guz73e6fw"
-ww1_video_url = "https://www.youtube.com/watch?v=GG0LY8OLBG8"
 ben_interview_url = "https://www.youtube.com/watch?v=XpC7SVDXimg"
-orban_interview_url = "https://www.youtube.com/watch?v=Uqrg3y5v0P4"
-video_url = orban_interview_url
 embeddings = OpenAIEmbeddings()
 # Cost: ~2c
 def create_database_from_youtube_url(video_url):
