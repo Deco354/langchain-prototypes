@@ -7,6 +7,7 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain
 import re
+import os
 from langchain.prompts.chat import (
     ChatPromptTemplate,
     SystemMessagePromptTemplate,
@@ -15,15 +16,24 @@ from langchain.prompts.chat import (
 
 python_environment = find_dotenv()
 load_dotenv(python_environment)
-
+fieldguide_document_directory = "Fieldguide Docs"
 embeddings = OpenAIEmbeddings()
+
+def get_textfiles_from_directory(directory) -> [str]:
+    textfiles = []
+    files = os.listdir(directory)
+    for file in files:
+        if file.endswith(".txt"):
+            with open(os.path.join(directory, file)) as text_file:
+                textfiles.append(text_file.read())
+    return textfiles
 
 # Cost: 0.01c per 100K tokens 
 # See https://openai.com/pricing#language-models for up to date prices
 # Use `estimated_token_count_for_string() to estimate token count`
-def create_database_from_text_string(text):
+def create_database_from_text_strings(document_strings):
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
-    split_docs = text_splitter.create_documents([text])
+    split_docs = text_splitter.create_documents(document_strings)
     database = FAISS.from_documents(split_docs, embeddings)
     return database
 
@@ -65,10 +75,16 @@ def get_response_from_query(database, query, vector_count=8):
     return response
 
 
-# This is a long document we can split up.
-with open('Fieldguide Docs/travel_upgrades.txt') as file:
-    travel_upgrades_doc = file.read()
+textFiles = get_textfiles_from_directory("Fieldguide Docs")
     
-database = create_database_from_text_string(travel_upgrades_doc)
-response = get_response_from_query(database, "I'm going to a conference to meet my colleagues at Tumblr, I'll be flying from the UK to the US. What travel upgrades can I purchase?")
+database = create_database_from_text_strings(textFiles)
+travel_upgrade_question = """
+I'm going to a conference to meet my colleagues at Tumblr, I'll be flying from the UK to the US. 
+What travel upgrades can I purchase?
+"""
+personal_travel_question= """
+I would like to arrive to the conference 3 days early so I can visit San Francisco over the weekend. 
+Am I allowed to expense flights for this?
+"""
+response = get_response_from_query(database, personal_travel_question)
 print(response)

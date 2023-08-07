@@ -1,0 +1,96 @@
+Expense Guidelines
+
+UPDATED: 1 MONTH AGO Topics: Travel (14) and Working Here (106)
+tl;dr – Please use your best judgment and common sense when purchasing and expensing things. Automattic will cover reasonable business expenses. Thank you for being frugal with company funds!
+
+When you are needing to purchase something for your role and there aren’t clear guidelines listed here or elsewhere in the Field Guide, please ask in #expense-reports Slack Channel or any of the HR Wranglers (preferably before you incur the expense) — they’re happy to help you with a judgment call.
+
+A12s are trusted to make responsible decisions on expenses. If Accounting/HR notice expense claims that fall outside the expense guidelines, they’ll contact you to discuss and amend them and will expect that your future expense claims are made within the guidelines. Repeated pings from Accounting or HR regarding violation of guidelines could jeopardize your employment at Automattic.
+
+Remember to read through what’s required for expensing at a8c (including when receipts, especially itemized receipts, are needed).
+
+Please note, if you are an employee of the Ministry of Automattic (our UK entity), additional expense guidelines apply, based on HMRC regulations. Please be sure to review them here. 
+
+Travel – Airfare, Lodging, Meals & Entertainment
+Automattic will pay or reimburse you for travel that you make for business reasons. You might travel for team meetups, the Grand Meetup, a WordCamp, to a conference we’re sponsoring, or for professional development. Automattic will reimburse for the normal aspects of living while traveling for business, but not extravagances or incidentals. We do not pay for guests/spouses/significant others’ accommodation or meals on business trips. Exceptions to this exist only for nursing parents and Localmattician get-togethers.
+
+You can use Egencia and your travel will be charged directly to Automattic. If you find travel arrangements that are cheaper outside Egencia, or you just prefer to pay for travel on your own and request reimbursement, that’s fine. Please note, we do not recommend using discount travel consolidators (Hotwire, Priceline, etc). You may get a lower price; however, if travel plans go awry (missed connection, delayed flight), they do not provide great customer service. If you choose to use one of these services, we will not reimburse you for a new flight/hotel/car rental if you do not like the options they provide.
+
+If you do travel for a Meetup, Localmattician, Group Training (Reboot, for example), WordCamp, or any group travel where 3 or more a12s attend, please generate a Travel Code and make sure to use this code for all expenses associated to the travel.
+
+Airfare
+Book regular Economy airfare (usually called Economy or Main Cabin). Do not book a Basic Economy fare, this severely limits your recourse if plans change or things go wrong. We don’t provide or reimburse for Main Cabin Extra/Comfort+, Plus, Premium Economy, First, or Business class airfare. Fully refundable airfare is only reimbursable if needed to obtain a visa.
+Please look for the lowest-cost alternative, but don’t do anything convoluted (like a 10-hour layover in a remote airport or more than four connections). Having status with an airline can make sense, but consider cost when selecting the airline for any given trip.
+Please book travel to and from the location of the business event you’re attending. In most cases, this will be a round-trip airfare ticket. If you want to add personal travel, that is fine, but please follow the directions for “Personal Travel” below.
+Do not book one-way tickets, as they are often more expensive than half of a round-trip ticket.
+Flight delays and cancellations are a normal part of travel. If your flight is canceled or delayed, please reach out directly to the airline or Egencia, as relevant, to work with them on rebooking. Do not default to buying a new ticket — in almost every case the airline will rebook you at no additional cost.
+You can expense airline fees such as checked baggage fees and seat selection fees for regular economy seats (you often see these fees on airlines like Southwest—”Early-Bird”—and Ryanair).
+If you’re working aboard a plane on business travel, inflight Wi-Fi can be expensed.
+See the Travel Upgrades page for information about travel upgrade options, including premium seats and lounge access.
+Airport Transfers
+You can expense one of the following to get you to and from airports:
+A taxi/rideshare.
+Mileage and parking expenses if you drive yourself in your car.
+Mileage if a friend or family member drops you off/picks you up.
+These options apply between your home and the airport or your meetup/business event accommodation and the airport. At meetups, airport transportation to/from accommodation may be organized for you or you’ll be asked to coordinate with other members of the team. Please check meetup planning posts to find out what’s expected for your specific event.
+Driving & Rental Cars
+If you choose to drive to a work event rather than flying, we’ll reimburse mileage if you’re driving your own car or actual costs (rental + gas) for a rental car up to the cost of an advance purchase flight. For mileage reimbursement, you will need to include a Google map of the route and total mileage. This can all be done under the “Distance” tab of a New Expense within Expensify.
+If you drive your own vehicle for work purposes we’ll reimburse your mileage, and the mileage rate includes payment for gas. We’ll reimburse gas costs directly when you drive a rental car.
+If you’re renting a car outside of the US, please select and purchase supplemental car insurance. For car rentals within the US, you can waive any supplemental rental car insurance provided by the rental car company.
+When comparing rental car costs, check for discounts available through our corporate car rental plan with Hertz. The discount (CDP) number is 2017377. More details are here.
+We also have a corporate account with Sixt Rent a Car. The customer number is 9708386. More details are here.
+Taxis, Uber, Lyft
+Please consider public transportation options where practical.
+When using Uber, please use uberX.
+Do not tip more than 20%.
+Lodging
+Aim to spend less than USD 250 per person, per day for lodging, meals & entertainment combined. This applies to meetups and to business travel (conferences, WordCamps, professional development opportunities). USD 250 is the maximum allowable spend, and shouldn’t be considered a goal. Please keep your costs as low as possible.
+Airbnb may be a more cost-effective option in many cities. We’re business travel members with Airbnb and if you verify your personal account through your @automattic.com email you will have the option to choose ‘Automattic’ as a payment method. Full instructions here.
+Meals
+Aim to spend less than USD 250 per person, per day for lodging, meals & entertainment combined. USD 250 is the maximum allowable spend, and shouldn’t be considered a goal. Please keep your costs as low as possible.
+We’ll reimburse you for meals (breakfast, lunch, and dinner) while traveling for work, and ask that you choose reasonably priced restaurants. We’d recommend no more than $15 for breakfast, $25 for lunch, and $40 for dinner; this is not a firm rule but a guideline! All meals above $20 will need an itemized receipt. Please see Submitting an Expense Report in Expensify for more details.
+Please refrain from expensive restaurants and meals —high-end steakhouses or sushi restaurants, for example.
+Generally, we expect to see the average dinner run USD 50 or less per person. If you’re at a team meetup, it’s okay to have one more expensive, “splurge” meal as a team during the week; however, we don’t expect to see multiple expensive meals during the same trip.
+These meal guidelines apply even if you’re in a location with inexpensive lodging and you’re likely to be well under the USD 250/person/per day budget.
+Mobile Roaming Expenses
+You can expense a temporary SIM card or reasonable, short-term roaming costs when you attend a team meetup or work event outside of your home country. There are specific guidelines on Grand Meetup roaming expenses, as we provide both SIM cards and strong wifi coverage at that event (details in the GM FAQs).
+
+Personal Travel
+If you’re on a business trip and would like to spend a few additional personal days exploring the area, the pre- or post-event travel is at your expense. With Automattic paid airfare, you can extend the dates of your itinerary if there is no material difference in the cost of the flight. However, the primary reason for the trip should be business (i.e. do not ask Automattic to pay for a trip that you primarily took for pleasure, and then add on a non-necessary business event to justify Automattic paying for it). You are expected to pay for any additional expenses (lodging, meals, etc.) that your personal travel incurs.
+
+How To Book a8c + Personal Travel
+Find the flight you would book if you were only traveling for your event, for the event dates. Use your best judgment to select a reasonable flight, and take a screenshot of the flight information and total cost. This is the benchmark for how much a8c expects to pay for your travel.
+Book your flight for the days you will actually be traveling. Trips that include personal travel should be booked directly with the airline/transport provider, and not through Egencia, Teampay, or a company credit card of any kind.
+Submit for reimbursement:
+If the cost of your flight including personal travel days is less than your benchmark, submit the actual cost of your flight.
+If the cost of your flight including personal travel days is more than your benchmark, submit a reimbursement request for just the benchmark amount.
+Include the screenshots of the benchmark flight in your expense report along with a receipt for the flight you purchased. Add the expense to the “Notes” section of the expense report (at the bottom of the expense report in Expensify).
+Important! Notes About Personal Travel
+Trips that include personal travel should be booked directly with the airline/transport provider, and not through Egencia, Teampay, or a company credit card of any kind.
+If your personal plans change, you are responsible for any flight changes or additional accommodation needs that might arise. Please do not submit for reimbursement to adjust your a8c travel plans due to changes in your personal plans. If your travel plans change after you have submitted your expense report, please reach out to Accounting to discuss.
+If you plan to extend your travel and continue to work please ensure you have the legal right to work in the visiting country. Most business visas have limitations and are intended for meetings, conferences, retreats, meetups, etc., and not regularly performed work.
+Travel & Personal Commitments
+Travel can be unpredictable, and delays and cancellations are often part of the experience. While frustrating, travel disruptions happen and you may miss a connection and not make it home on time. If you have a personal commitment adjacent to a8c travel that you cannot miss (or would be devastated if you missed), please consider that when deciding to attend the a8c event. If your flight is delayed or canceled we ask you to work directly with the airline or Egencia, as appropriate, to get rebooked. This may mean you are delayed and flying home up to several days later. While we will cover any accommodation needed due to business travel disruptions, we will not reimburse for or purchase a new ticket for a last-minute flight home (except in emergencies).
+
+Home Office
+Information on ordering and expensing your computer and a monitor is available here.
+
+Details on what items you can expense for your home office can be found on this page: Setting Up A Home Office.
+
+Just like with mobile cellular or data services, we do not reimburse home internet service.
+
+Mobile Devices
+Automattic generally doesn’t provide mobile devices. If you need a phone or tablet for work purposes (examples: mobile developers, people reviewing or testing apps, design, or themes on mobile devices as part of your job, Happiness Engineers supporting our mobile apps) then your team lead can approve Automattic purchased mobile devices for you. More about expensing mobile devices required for your job.
+
+We don’t reimburse routine cellular or data service for devices.
+
+You can expense, and we will reimburse for, a temporary SIM card or reasonable, short-term roaming costs when you attend a team meetup or work event outside of your home country. There are specific guidelines on Grand Meetup roaming expenses, as we provide both SIM cards and strong wifi coverage at that event (details in the GM FAQs).
+
+Cancellations & Refunding A8C
+If you need to cancel a work trip and receive a refund for something that A8C has already reimbursed you for, you have a few options to refund A8C:
+
+Submit as a negative expense through Expensify, but only if you have reimbursable expenses greater than what you owe within the next month. The net result of the expense report should be that A8C owes you money.
+Check: send to the Lockbox Address listed here. Please include a clear memo on the check stating the nature of the refund.
+ACH / Wire: ping Team-Accounting in Slack for the bank info if this option makes the most sense.
+PayPal: ping Team-Accounting in Slack for account info if this option makes the most sense.
+If you booked airfare that needs to be canceled, and the only option is to receive a flight voucher, we ask that you hold on to this voucher and use it towards your next logical company travel. If you end up using this voucher for personal travel, please reimburse A8C using one of the methods above and ping Team-Accounting in Slack to discuss.
