@@ -21,13 +21,13 @@ fieldguide_document_directory = "Fieldguide Docs"
 embeddings = OpenAIEmbeddings()
 
 def get_textfiles_from_directory(directory) -> [str]:
-    textfiles = []
+    text_files = []
     files = os.listdir(directory)
     for file in files:
         if file.endswith(".txt"):
             with open(os.path.join(directory, file)) as text_file:
-                textfiles.append(text_file.read())
-    return textfiles
+                text_files.append(text_file.read())
+    return text_files
 
 # Cost: 0.01c per 100K tokens 
 # See https://openai.com/pricing#language-models for up to date prices
@@ -72,8 +72,8 @@ def get_response_from_query(database, query, vector_count=8):
     human_message_prompt = HumanMessagePromptTemplate.from_template(human_template)
     
     chat_prompt = ChatPromptTemplate.from_messages([system_message_prompt, human_message_prompt])
-    llmChain = LLMChain(llm=gpt, prompt=chat_prompt)
-    response = llmChain.run(query=query, doc_content=doc_content)
+    llm_chain = LLMChain(llm=gpt, prompt=chat_prompt)
+    response = llm_chain.run(query=query, doc_content=doc_content)
     return response
 
 def pretty_print(string, width=80):
@@ -81,9 +81,9 @@ def pretty_print(string, width=80):
     
 
 
-textFiles = get_textfiles_from_directory("Fieldguide Docs")
+text_files = get_textfiles_from_directory("Fieldguide Docs")
     
-database = create_database_from_text_strings(textFiles)
+database = create_database_from_text_strings(text_files)
 travel_upgrade_question = """
 I'm going to a conference to meet my colleagues at Tumblr, I'll be flying from the UK to the US. 
 What travel upgrades can I purchase?
