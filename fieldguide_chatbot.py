@@ -8,6 +8,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain
 import re
 import os
+import textwrap
 from langchain.prompts.chat import (
     ChatPromptTemplate,
     SystemMessagePromptTemplate,
@@ -75,6 +76,10 @@ def get_response_from_query(database, query, vector_count=8):
     response = llmChain.run(query=query, doc_content=doc_content)
     return response
 
+def pretty_print(string, width=80):
+    print(textwrap.fill(response, width))
+    
+
 
 textFiles = get_textfiles_from_directory("Fieldguide Docs")
     
@@ -88,4 +93,4 @@ I would like to arrive to the conference 3 days early so I can visit San Francis
 Am I allowed to expense flights for this?
 """
 response = get_response_from_query(database, personal_travel_question)
-print(response)
+pretty_print(response)
