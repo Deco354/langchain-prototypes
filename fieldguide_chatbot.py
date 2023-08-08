@@ -62,6 +62,7 @@ def get_response_from_query(database, query, vector_count=8):
         Instructions:
         - Only use the factual information from the document excerpts to answer the question.
         - If you're unsure of an answer, you can say "I don't know" or "I'm not sure"
+        - Don't mention that you're using excerpts of the fields guide, this is an implementation detail the user doesn't need to know.
         """
     
     system_message_prompt = SystemMessagePromptTemplate.from_template(system_template)    
