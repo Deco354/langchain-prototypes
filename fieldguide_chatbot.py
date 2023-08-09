@@ -33,7 +33,7 @@ def get_textfiles_from_directory(directory) -> [str]:
 # See https://openai.com/pricing#language-models for up to date prices
 # Use `estimated_token_count_for_string() to estimate token count`
 def create_database_from_text_strings(document_strings):
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=9000, chunk_overlap=2000)
     split_docs = text_splitter.create_documents(document_strings)
     database = FAISS.from_documents(split_docs, embeddings)
     return database
