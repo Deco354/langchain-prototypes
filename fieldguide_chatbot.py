@@ -46,7 +46,7 @@ def get_response_from_query(database, query, vector_count=8):
     matching_docs = database.similarity_search(query, k=vector_count)
     doc_content = "\n---\n".join([doc.page_content for doc in matching_docs])
     
-    gpt = ChatOpenAI(model_name="gpt-3.5-turbo")
+    gpt = ChatOpenAI(model_name="gpt-3.5-turbo-16k")
     system_template = """
         You are an intelligent chatbot assistant designed to answer questions about automattic's fieldguide documents
         based on excerpts of these documents within triple backticks below.
