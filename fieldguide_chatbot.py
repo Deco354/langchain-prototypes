@@ -77,9 +77,7 @@ def get_response_from_query(database, query, vector_count=8):
     return response
 
 def pretty_print(string, width=80):
-    print(textwrap.fill(response, width))
-    
-
+    print(textwrap.fill(string, width))
 
 text_files = get_textfiles_from_directory("Fieldguide Docs")
     
