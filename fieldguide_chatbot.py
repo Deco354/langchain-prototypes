@@ -17,7 +17,7 @@ from langchain.prompts.chat import (
 
 python_environment = find_dotenv()
 load_dotenv(python_environment)
-fieldguide_document_directory = "Fieldguide Docs"
+source_document_directory = "SourceDocs"
 embeddings = OpenAIEmbeddings()
 
 def get_textfiles_from_directory(directory) -> [str]:
@@ -87,7 +87,7 @@ def get_response_from_query(database, query, vector_count=8):
 def pretty_print(string, width=80):
     print(textwrap.fill(string, width))
 
-text_files = get_textfiles_from_directory("Fieldguide Docs")
+text_files = get_textfiles_from_directory(source_document_directory)
     
 database = create_database_from_text_strings(text_files)
 travel_upgrade_question = """
